@@ -1,8 +1,10 @@
-__pycache__
-backtrader_plotting.egg-info
-/build
-/dist
-/tests/.pytest_cache
-/.idea
-/.pytest_cache
-/.tox
+# File konfigurasi IDE
+# ---------------------
+/nbproject/
+.idea/*
+# File cache Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
